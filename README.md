@@ -21,7 +21,7 @@ At this stage of project the app miss its whole user interface.
 ## Technologies
 * Firebase Database
 * ROOM persistence library
-* Barcode reader
+* Google Mobile Vision API
 
 ## Setup
 TO BE DONE
